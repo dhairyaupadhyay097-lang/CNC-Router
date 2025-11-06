@@ -36,3 +36,24 @@ STAY TUNED
 
   
 
+## 11/6/2025 - #2 Starting off with the Baseplate   
+
+#2
+
+The baseplate!!, you may call it the start of the build or foundation for building whole CNC, I made rough sketch for planning the CNC. I made it like a rectangular box kind of thing with places for electrical box mixed. I have made round Rod like structure for attachment of side walls for top plate. IDK why i started this huge project but still, lets complete it.However, it is lot to develop yet, stay tuned!!
+
+![WhatsApp Image 2025-11-06 at 21.03.35](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--0667e65cddc1cd7c0ea87525529147a705fc73e1/WhatsApp%20Image%202025-11-06%20at%2021.03.35.jpeg)
+
+![Screenshot_6-11-2025_211712_cad.onshape.com](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--abc485b0de5290bfe763a00283343f4d8efaf46f/Screenshot_6-11-2025_211712_cad.onshape.com.jpeg)
+
+![Screenshot_6-11-2025_211724_cad.onshape.com](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--499a2d5dedbb7e7d0b5ee2e6ae9e7f3c4e620eda/Screenshot_6-11-2025_211724_cad.onshape.com.jpeg)
+
+![Screenshot_6-11-2025_211737_cad.onshape.com](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg5MywicHVyIjoiYmxvYl9pZCJ9fQ==--7818637a94ff921699da7db6900129cb4e1984d2/Screenshot_6-11-2025_211737_cad.onshape.com.jpeg)
+
+![Screenshot_6-11-2025_21180_cad.onshape.com](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--2281af6389f1a4cd8931106e51f5397c40c06194/Screenshot_6-11-2025_21180_cad.onshape.com.jpeg)
+
+
+
+
+  
+
