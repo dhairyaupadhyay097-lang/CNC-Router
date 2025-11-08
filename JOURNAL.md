@@ -57,3 +57,15 @@ The baseplate!!, you may call it the start of the build or foundation for buildi
 
   
 
+## 11/8/2025 - # 3 Connector for side walls and side walls  
+
+#3
+
+Great beginning while making the side wall, which will hold the top plate for the y axis connector, it seems too simple for now, but it will become practical, places for screws have been made and design is modular so easy to put on, I missed on z axis part on the baseplate so i will edit that soon.
+
+
+![Screenshot_6-11-2025_214749_cad.onshape.com](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--404c737f5d3a93e4e7a5e4838210882083f72a8e/Screenshot_6-11-2025_214749_cad.onshape.com.jpeg)!
+![Screenshot_6-11-2025_213718_cad.onshape.com](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--850e4ce72e85339a7ab2a71fdd459798208dd34c/Screenshot_6-11-2025_213718_cad.onshape.com.jpeg)![Screenshot_6-11-2025_213726_cad.onshape.com](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--9c7ce5da38b72b21d00eccb1f33e38d31b58d4c2/Screenshot_6-11-2025_213726_cad.onshape.com.jpeg)![Screenshot_6-11-2025_213947_cad.onshape.com](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--2e84e01c0da845fa0c3adf4883e2b8fab5a69024/Screenshot_6-11-2025_213947_cad.onshape.com.jpeg)![Screenshot_6-11-2025_213743_cad.onshape.com](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ1NywicHVyIjoiYmxvYl9pZCJ9fQ==--18ba83a5a0886aba88a2ca47453a94fa248c94b4/Screenshot_6-11-2025_213743_cad.onshape.com.jpeg)
+![Screenshot_6-11-2025_21401_cad.onshape.com](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--210cc6ce97a0d4d60b7508aa4e8f4a87482276b9/Screenshot_6-11-2025_21401_cad.onshape.com.jpeg)[Screenshot_6-11-2025_214011_cad.onshape.com](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--9d22940f6428be3c18cddd1f7d4ef46a8eb7350c/Screenshot_6-11-2025_214011_cad.onshape.com.jpeg)![Screenshot_6-11-2025_214756_cad.onshape.com](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--e8451aec9d47cee6d93004d93d5c196bd41e868c/Screenshot_6-11-2025_214756_cad.onshape.com.jpeg)![Screenshot_6-11-2025_214648_cad.onshape.com](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ2MywicHVyIjoiYmxvYl9pZCJ9fQ==--409072ea7197f77e29a8427762cb87ee6c0f0a30/Screenshot_6-11-2025_214648_cad.onshape.com.jpeg)![Screenshot_6-11-2025_214642_cad.onshape.com](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--2883c87fd1945928933b85625318ee9cfaeb8599/Screenshot_6-11-2025_214642_cad.onshape.com.jpeg)![Screenshot_6-11-2025_214810_cad.onshape.com](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--030fdc7e8ddbe559c5b497515ed7bf0c5397575e/Screenshot_6-11-2025_214810_cad.onshape.com.jpeg)
+  
+
